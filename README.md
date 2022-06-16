@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @joayo13
-- 👀 I’m interested in MERN stack development
+- 👋 Hi, I’m Jordan
+- 👀 I’m interested in MERN full-stack Javascript development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on PWA's, business webpages, and mobile applications using React Native
+- 💞️ I’m looking to collaborate on PWA's, business webpages, and web-applications
 - 📫 How to reach me: jordan.ayotte1999@gmail.com
 
 <!---
