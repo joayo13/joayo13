@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning Tailwind.css
+- 👀 I’m interested in making stylish websites
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on websites and web-applications
 - 📫 How to reach me: jordan.ayotte1999@gmail.com
 
