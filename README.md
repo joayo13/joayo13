@@ -33,8 +33,8 @@ I'm Jordan, a software developer with a strong foundation in web development. I 
 ## Projects
 Here are some of the projects I've worked on using the MERN stack:
 
-- [CoffeeCat](coffeecat.netlify.app): An e-commerce site that uses React, Stripe-API, Node.js and Express.
-- [Billy's Barbershop](billysbarber.netlify.app): A Barber Shop Website where you can make appointments. it uses TailwindCSS and React to create a responsive and modern design.
+- [CoffeeCat](coffeecat): An e-commerce site that uses React, Stripe-API, Node.js and Express.
+- [Billy's Barbershop](billysbarber): A Barber Shop Website where you can make appointments. it uses TailwindCSS and React to create a responsive and modern design.
 
 You can find more of my projects on my [GitHub repository](https://github.com/joayo13), and feel free to explore them!
 
