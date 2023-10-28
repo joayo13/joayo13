@@ -46,4 +46,4 @@ I'm always open to new opportunities and challenges, and I'd love to hear from y
 ## Thank You
 I'm excited to share my passion for web development and contribute to the open-source community. If you find my work interesting, don't forget to star the repositories you like and follow me for updates!
 
-Have a great day, and happy coding! 🚀👨‍💻
+Have a great day! 
