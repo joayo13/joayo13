@@ -33,13 +33,15 @@ I'm Jordan, a software developer with a strong foundation in web development. I 
 ## Projects
 Here are some of the projects I've worked on using the MERN stack:
 
-- [CoffeeCat](coffeecat): An e-commerce site that uses React, Stripe-API, Node.js and Express.
-- [Billy's Barbershop](billysbarber): A Barber Shop Website where you can make appointments. it uses TailwindCSS and React to create a responsive and modern design.
+- [CoffeeCat](https://github.com/joayo13/coffeecat): An e-commerce site that uses React, Stripe-API, Node.js and Express.
+- [Billy's Barbershop](https://github.com/joayo13/barbershop): A Barber Shop Website where you can make appointments. it uses TailwindCSS and React to create a responsive and modern design.
+- [Find Nearest Cafe](https://github.com/joayo13/findnearestcafe): An app that fetches the highest rated cafe near the user. It uses Google Places API and features some svg animations.
+- [Portfolio](https://github.com/joayo13/portfolio): My portfolio website which includes above projects and some wacky visual effects.
 
 You can find more of my projects on my [GitHub repository](https://github.com/joayo13), and feel free to explore them!
 
 ## Contact Me
-If you're interested in collaborating, have questions, or just want to say hi, you can reach out to me via [email](jordanayotte13@outlook.com).
+If you're interested in collaborating, have questions, or just want to say hi, you can reach out to me via [email](mailto:jordan.ayotte1999@gmail.com).
 
 I'm always open to new opportunities and challenges, and I'd love to hear from you.
 
