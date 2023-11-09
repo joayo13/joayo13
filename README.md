@@ -1,7 +1,7 @@
 # Making things that make me want to make more things!
 
 ## About Me
-I'm Jordan, a software developer with a strong foundation in web development. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create innovative, user-friendly web applications.
+I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create modern, user-friendly web applications.
 
 ## My Skills
 
