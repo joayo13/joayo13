@@ -1,4 +1,4 @@
-# Making things that make me want to make more things!
+# ✌️😑✌️
 
 ## About Me
 I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create modern, user-friendly web applications.
