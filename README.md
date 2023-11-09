@@ -43,9 +43,7 @@ You can find more of my projects on my [GitHub repository](https://github.com/jo
 ## Contact Me
 If you're interested in collaborating, have questions, or just want to say hi, you can reach out to me via [email](mailto:jordan.ayotte1999@gmail.com).
 
-I'm always open to new opportunities and challenges, and I'd love to hear from you.
-
 ## Thank You
 I'm excited to share my passion for web development and contribute to the open-source community. If you find my work interesting, don't forget to star the repositories you like and follow me for updates!
 
-Have a great day! 
+Have a good one! ✌️
