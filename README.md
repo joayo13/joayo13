@@ -3,6 +3,10 @@
 ## About Me
 I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create modern, user-friendly web applications.
 
+## Currently Learning
+-SvelteKit 
+-Godot Game Engine
+
 ## My Skills
 
 - **Front-End**:
