@@ -3,11 +3,11 @@
 ## About Me
 I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create modern, user-friendly web applications.
 
-## Currently Learning
+## Currently Learning 🧠
 - Svelte 
 - Godot Game Engine
 
-## My Skills
+## My Skills 📚
 
 - **Front-End**:
   - React
@@ -35,7 +35,7 @@ I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack
   - Package Managers (npm, yarn)
   - Debugging and Performance Optimization
 
-## Projects
+## Projects 🛠️
 Here are some of the projects I've worked on using the MERN stack:
 
 - [CoffeeCat](https://github.com/joayo13/coffeecat): An e-commerce site that uses React, Stripe-API, Node.js and Express.
