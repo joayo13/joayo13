@@ -4,13 +4,14 @@
 I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create modern, user-friendly web applications.
 
 ## Currently Learning
--SvelteKit 
--Godot Game Engine
+- Svelte 
+- Godot Game Engine
 
 ## My Skills
 
 - **Front-End**:
   - React
+  - Svelte
   - HTML5, CSS3, and JavaScript
   - TailwindCSS
   - Responsive Design
@@ -41,8 +42,6 @@ Here are some of the projects I've worked on using the MERN stack:
 - [Billy's Barbershop](https://github.com/joayo13/barbershop): A Barber Shop Website where you can make appointments. it uses TailwindCSS and React to create a responsive and modern design.
 - [Find Nearest Cafe](https://github.com/joayo13/findnearestcafe): An app that fetches the highest rated cafe near the user. It uses Google Places API and features some svg animations.
 - [Portfolio](https://github.com/joayo13/portfolio): My portfolio website which includes above projects and some wacky visual effects.
-
-You can find more of my projects on my [GitHub repository](https://github.com/joayo13), and feel free to explore them!
 
 ## Contact Me
 If you're interested in collaborating, have questions, or just want to say hi, you can reach out to me via [email](mailto:jordan.ayotte1999@gmail.com).
