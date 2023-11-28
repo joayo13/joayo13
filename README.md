@@ -12,6 +12,7 @@ I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack
 - **Front-End**:
   - React
   - Svelte
+  - Pug
   - HTML5, CSS3, and JavaScript
   - TailwindCSS
   - Responsive Design
