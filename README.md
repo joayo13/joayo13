@@ -1,7 +1,7 @@
 # ✌️😑✌️
 
 ## About Me
-I'm Jordan, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and create modern, user-friendly web applications.
+I'm Jordan, I'm a software developer who mostly loves making games and accessible, user-friendly web applications.
 
 ## Currently Learning 🧠
 - Svelte 
