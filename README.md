@@ -1,43 +1,32 @@
-# ✌️😑✌️
 
 ## About Me
-I'm Jordan, a coding hobbyist that enjoys making games and accessible, user-friendly web applications.
+Hey, I'm Jordan. When I'm not coding you can find me playing video-games or making some (dumpster?)fire beats in FL Studio. I also have an addiction to movie theatre popcorn. 
 
 ## Currently Learning 🧠
-- Svelte 
+- Svelte/SvelteKit
+- TypeScript
 - Godot Game Engine
 
-## My Skills 📚
+## Web Dev Skills 📚
 
 - **Front-End**:
-  - React
-  - Svelte
-  - Pug
-  - HTML5, CSS3, and JavaScript
-  - TailwindCSS
-  - Responsive Design
-  - UI/UX Design Principles
+  - Javascript/HTML/CSS
+  - ReactJS
+  - Svelte/SvelteKit
 
 - **Back-End**:
-  - Node.js
-  - Express.js
+  - Node
+  - Express
+  - Firebase
   - MongoDB
-  - RESTful APIs
-  - Authentication and Authorization
 
 - **DevOps**:
   - Version Control (Git)
   - Deployment (Heroku, Netlify, AWS)
   - Continuous Integration/Continuous Deployment (CI/CD)
 
-- **Other Skills**:
-  - JavaScript ES6+
-  - Testing (Jest, Mocha, Chai)
-  - Package Managers (npm, yarn)
-  - Debugging and Performance Optimization
-
 ## Projects 🛠️
-Here are some of the projects I've worked on using the MERN stack:
+Here's some of my new projects you can check out:
 
 - [CoffeeCat](https://github.com/joayo13/coffeecat): An e-commerce site that uses React, Stripe-API, Node.js and Express.
 - [Billy's Barbershop](https://github.com/joayo13/barbershop): A Barber Shop Website where you can make appointments. it uses TailwindCSS and React to create a responsive and modern design.
@@ -45,9 +34,4 @@ Here are some of the projects I've worked on using the MERN stack:
 - [Portfolio](https://github.com/joayo13/portfolio): My portfolio website which includes above projects and some wacky visual effects.
 
 ## Contact Me
-If you're interested in collaborating, have questions, or just want to say hi, you can reach out to me via [email](mailto:jordan.ayotte1999@gmail.com).
-
-## Thank You
-I'm excited to share my passion for web development and contribute to the open-source community. If you find my work interesting, don't forget to star the repositories you like and follow me for updates!
-
-Have a good one! ✌️
+If you're interested in collaborating, you can reach out to me via [email](mailto:jordan.ayotte1999@gmail.com).
