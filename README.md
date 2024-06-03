@@ -10,13 +10,14 @@ Hey, I'm Jordan. When I'm not coding you can find me playing video-games or maki
 ## Web Dev Skills 📚
 
 - **Front-End**:
-  - Javascript/HTML/CSS
+  - Javascript/Typescript
+  - HTML
+  - CSS/SASS/Tailwind
   - ReactJS
   - Svelte/SvelteKit
 
 - **Back-End**:
-  - Node
-  - Express
+  - Node/Express
   - Firebase
   - MongoDB
 
