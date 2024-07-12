@@ -1,30 +1,19 @@
 
 ## About Me
-Hey, I'm Jordan. When I'm not coding you can find me playing video-games or making some (dumpster?)fire beats in FL Studio. I also have an addiction to movie theatre popcorn. 
-
-## Currently Learning 🧠
-- Svelte/SvelteKit
-- TypeScript
-- Godot Game Engine
+When I'm not coding you can find me playing video-games or making some (dumpster?)fire beats in FL Studio.  
 
 ## Web Dev Skills 📚
 
 - **Front-End**:
-  - Javascript/Typescript
-  - HTML
+  - Typescript
   - CSS/SASS/Tailwind
   - ReactJS
   - Svelte/SvelteKit
 
 - **Back-End**:
   - Node/Express
-  - Firebase
   - MongoDB
-
-- **DevOps**:
-  - Version Control (Git)
-  - Deployment (Heroku, Netlify, AWS)
-  - Continuous Integration/Continuous Deployment (CI/CD)
+  - Firebase
 
 ## Projects 🛠️
 Here's some of my new projects you can check out:
