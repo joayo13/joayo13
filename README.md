@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm primarily working on the web, making full-stack applications. <br>Outside of the web, I enjoy low-level programming and tinkering with logic gates and computer architecture.
+I'm primarily working with web technologies, making full-stack applications. <br>Outside of the web, I enjoy low-level programming and tinkering with logic gates and computer architecture.
 
 
 ## 🌐 Socials:
